@@ -1,0 +1,200 @@
+{
+  "main":{
+    "name" : "Aamosh Dahal",
+    "occupation": "Web Developer, programmer, student",
+    "description": "I am a student at Caldwell University and I aim to become a Web Developer. I like developing with Node and React.",
+    "image": "https://scontent.fewr1-1.fna.fbcdn.net/v/t1.0-9/31279778_2422654224418837_5602430751938183168_n.jpg?_nc_cat=0&oh=4c57b1fd0abfc349ccf427884e2491a9&oe=5BAB451F",
+    "bio": "Currently a sophomore. I recently started developing with React. I have successfully completed my first project, and I am currently working on its design.",
+    "email": "dahalaamosh@gmail.com",
+    "phone": "973-619-2875",
+    "address": {
+      "street": "15 Bloomfield Avenue, Apartment 3F",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003"
+    },
+    "webiste": "http://www.aamoshdahal.com",
+    "resumedownload": "https://drive.google.com/open?id=1Nfoz7gIrsKvlMM4j__SBHVW8XC_9pl8y",
+    "social":[
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aamoshdahal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AmoshDahal",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "https://plus.google.com/109241838203541421277",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aamosh-dahal-a03147149/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aamoshdahal/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dahalaamosh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school": "Saint Xaviers College",
+        "degree": "Intermediate Level",
+        "graduated": "2015",
+        "description": "Graduated my +2 from this institute. I am happy that I joined the institute."
+      },
+      {
+        "school": "Caldwell University",
+        "degree": "Bachelors Degree",
+        "graduated": "2020",
+        "description": "Graduated my Bachelors Degree from this institute. I am happy that I joined the institute."
+      }
+    ],
+    "work":[
+      {
+        "company": "Caldwell University",
+        "title": "IT Senior Tech",
+        "years": "2018 - Present",
+        "description": "A senior technological assistant for my univeristy."
+      },
+      {
+        "company": "Caldwell University",
+        "title": "Tutor",
+        "years": "2017 - Present",
+        "description": "IT major tutor."
+      }
+    ],
+    "skills":[
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "98%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Gas Station Finder",
+        "description": "A simple MEN stack app powered by Google Maps API, that gives you a list of Gas Station based on your location along with the direction to direction to reach there from your current position.",
+        "category": "MEN Stack",
+        "tags": "API, Node JS, Express",
+        "image": "https://i.stack.imgur.com/S0u1o.jpg",
+        "url": "localhost:5000",
+        "modal": "#modal-01"
+      },
+      {
+        "title": "Coffee Cup",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam vulputate dignissim suspendisse in est ante in. Aliquam ut porttitor leo a diam sollicitudin tempor. ",
+        "category": "Illustrator",
+        "tags": "Branding, Designing",
+        "image": "images/portfolio/coffee.jpg",
+        "url": "https://www.goto1.com",
+        "modal": "#modal-02"
+      },
+      {
+        "title": "Console",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "PHP",
+        "tags": "Server, Hosting",
+        "image": "images/portfolio/console.jpg",
+        "url": "https://www.goto2.com",
+        "modal": "#modal-03"
+      },
+      {
+        "title": "Judh",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Node JS",
+        "tags": "Web Programming",
+        "image": "images/portfolio/judah.jpg",
+        "url": "https://www.goto3.com",
+        "modal": "#modal-04"
+      },
+      {
+        "title": "Into The Light",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Photography",
+        "tags": "Branding",
+        "image": "images/portfolio/into-the-light.jpg",
+        "url": "https://www.goto4.com",
+        "modal": "#modal-05"
+      },
+      {
+        "title": "Farmer Boy",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Branding",
+        "tags": "Branding, Web Desgin",
+        "image": "images/portfolio/farmerboy.jpg",
+        "url": "https://www.goto5.com",
+        "modal": "#modal-06"
+      },
+      {
+        "title": "Girl",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Photography",
+        "tags": "Branding, Web Desgin",
+        "image": "images/portfolio/girl.jpg",
+        "url": "https://www.goto6.com",
+        "modal": "#modal-07"
+      },
+      {
+        "title": "Origami",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Web Development",
+        "tags": "MEN STACK",
+        "image": "images/portfolio/origami.jpg",
+        "url": "https://www.goto7.com",
+        "modal": "#modal-07"
+      },
+      {
+        "title": "Retrocam",
+        "description": "Ac turpis egestas maecenas pharetra convallis posuere morbi. Sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Sit amet mauris commodo quis imperdiet massa tincidunt.  ",
+        "category": "Web Development",
+        "tags": "React",
+        "image": "images/portfolio/retrocam.jpg",
+        "url": "https://www.goto8.com",
+        "modal": "#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text": "Nisi vitae suscipit tellus mauris a diam maecenas. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Tellus orci ac auctor augue. Sit amet risus nullam eget felis eget nunc. Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Risus nec feugiat in fermentum. Vestibulum morbi blandit cursus risus at ultrices. Proin sed libero enim sed.",
+        "user": "Rashul Raj Bhandari"
+      },
+      {
+        "text": "Nisi vitae suscipit tellus mauris a diam maecenas. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. Tellus orci ac auctor augue. Sit amet risus nullam eget felis eget nunc. Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Risus nec feugiat in fermentum. Vestibulum morbi blandit cursus risus at ultrices. Proin sed libero enim sed.",
+        "user": "Arun Joshi"
+      }
+    ]
+  }
+}
