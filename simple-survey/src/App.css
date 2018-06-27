@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.questions{
+  margin-left: 10px;
+}
+
+.query{
+  margin-bottom: 10px;
+}
+
+.query input{
+  margin-bottom: 10px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+input[type="text"]{
+  padding: 4px;
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border: #ccc solid 1px;
+}
